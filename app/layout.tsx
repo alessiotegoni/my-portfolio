@@ -8,8 +8,9 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Space Portfolio",
-  description: "This is my portfolio",
+  title: "Portfolio | Alessio Tegoni",
+  description:
+    "Portfolio di uno sviluppatore full stack specializzato in app web e mobile.",
 };
 
 export default function RootLayout({
