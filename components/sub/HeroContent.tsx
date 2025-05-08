@@ -15,7 +15,7 @@ export default function HeroContent() {
     <motion.div
       initial="hidden"
       animate="visible"
-      className="mx-auto max-w-[1500px] flex flex-row items-center justify-center p-3 mt-40 w-full z-[20]"
+      className="mx-auto max-w-[1500px] flex flex-row items-center justify-center p-3 mt-48 sm:mt-56 w-full z-[20]"
     >
       <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start">
         <motion.div
