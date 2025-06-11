@@ -15,7 +15,7 @@ export default function Footer() {
           <FaGithub size={24} />
         </a>
         <a
-          href="https://www.linkedin.com/in/alessio-tegoni-9a8a22274/"
+          href="https://www.linkedin.com/in/alessio-tegoni-a219a6270/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
